@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnSPYYjj9uBM1LqyRIdVDra3r1C5wzc1BoBgZjYMVQMR0FNUEBgSw6EEI/QQMt5Xub+EGWOAXRYIkwtiNttMEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\markt\\ITU_3semester\\BDSA\\Exercises\\GitInsight_round1\\GitInsightR1\\GitInsightR1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markt\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\markt\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}
